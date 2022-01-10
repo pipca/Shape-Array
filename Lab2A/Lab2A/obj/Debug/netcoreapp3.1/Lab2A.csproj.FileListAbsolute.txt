@@ -1,0 +1,28 @@
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\bin\Debug\netcoreapp3.1\Lab2A.exe
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\bin\Debug\netcoreapp3.1\Lab2A.deps.json
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\bin\Debug\netcoreapp3.1\Lab2A.runtimeconfig.json
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\bin\Debug\netcoreapp3.1\Lab2A.runtimeconfig.dev.json
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\bin\Debug\netcoreapp3.1\Lab2A.dll
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\bin\Debug\netcoreapp3.1\Lab2A.pdb
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\obj\Debug\netcoreapp3.1\Lab2A.csproj.AssemblyReference.cache
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\obj\Debug\netcoreapp3.1\Lab2A.GeneratedMSBuildEditorConfig.editorconfig
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\obj\Debug\netcoreapp3.1\Lab2A.AssemblyInfoInputs.cache
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\obj\Debug\netcoreapp3.1\Lab2A.AssemblyInfo.cs
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\obj\Debug\netcoreapp3.1\Lab2A.csproj.CoreCompileInputs.cache
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\obj\Debug\netcoreapp3.1\Lab2A.dll
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\obj\Debug\netcoreapp3.1\Lab2A.pdb
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\obj\Debug\netcoreapp3.1\Lab2A.genruntimeconfig.cache
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\bin\Debug\netcoreapp3.1\Lab2A.exe
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\bin\Debug\netcoreapp3.1\Lab2A.deps.json
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\bin\Debug\netcoreapp3.1\Lab2A.runtimeconfig.json
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\bin\Debug\netcoreapp3.1\Lab2A.runtimeconfig.dev.json
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\bin\Debug\netcoreapp3.1\Lab2A.dll
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\bin\Debug\netcoreapp3.1\Lab2A.pdb
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\obj\Debug\netcoreapp3.1\Lab2A.csproj.AssemblyReference.cache
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\obj\Debug\netcoreapp3.1\Lab2A.GeneratedMSBuildEditorConfig.editorconfig
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\obj\Debug\netcoreapp3.1\Lab2A.AssemblyInfoInputs.cache
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\obj\Debug\netcoreapp3.1\Lab2A.AssemblyInfo.cs
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\obj\Debug\netcoreapp3.1\Lab2A.csproj.CoreCompileInputs.cache
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\obj\Debug\netcoreapp3.1\Lab2A.dll
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\obj\Debug\netcoreapp3.1\Lab2A.pdb
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Two\Lab2A\Lab2A\obj\Debug\netcoreapp3.1\Lab2A.genruntimeconfig.cache
